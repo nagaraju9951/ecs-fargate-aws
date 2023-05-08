@@ -34,6 +34,3 @@ This project uses the following variables:
 
 These variables can be set in a `terraform.tfvars` file or passed in via the command line.
 
-## Author
-
-This project was created by [Mohan Jaji](https://git.cloudavise.com/mohanjaji).
